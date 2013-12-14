@@ -29,11 +29,13 @@ Brief presentation
 You can see all system requirements here:
 
 *) https://dl.dropboxusercontent.com/u/69163795/PCSE-DF01-DIGETE-2010/Proceso/DF01_CSE_2010.pdf
+
 *) https://dl.dropboxusercontent.com/u/69163795/PCSE-DF01-DIGETE-2010/Resoluci%C3%B3n%20Directorial%20Eval.%20de%20SW/RD_EVALUACION_SOFTWARE.pdf
 
 Then, also show you the general use case diagram and database physical model:
 
 *) https://dl.dropboxusercontent.com/u/69163795/PCSE-DF01-DIGETE-2010/Caso%20de%20Uso%20General/usecasedigeteprocess.png
+
 *) https://dl.dropboxusercontent.com/u/69163795/PCSE-DF01-DIGETE-2010/Modelo%20F%C3%ADsico/databasephysicalmodel.png
 
 
