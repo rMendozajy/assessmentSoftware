@@ -1,0 +1,30 @@
+<municipios>
+  <municipio>
+    <codigo>037</codigo>
+    <nombre>San Ignacio</nombre>
+  </municipio>
+  <municipio>
+    <codigo>038</codigo>
+    <nombre>Jaen</nombre>
+  </municipio>
+  <municipio>
+    <codigo>039</codigo>
+    <nombre>Cutervo</nombre>
+  </municipio>
+  <municipio>
+    <codigo>040</codigo>
+    <nombre>Chota</nombre>
+  </municipio>
+  <municipio>
+    <codigo>041</codigo>
+    <nombre>Santa Cruz</nombre>
+  </municipio>
+  <municipio>
+    <codigo>042</codigo>
+    <nombre>Hualgayoc</nombre>
+  </municipio>
+  <municipio>
+    <codigo>043</codigo>
+    <nombre>San Pablo</nombre>
+  </municipio>  
+</municipios>

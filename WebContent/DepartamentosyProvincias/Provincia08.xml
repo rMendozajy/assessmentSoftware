@@ -1,0 +1,30 @@
+<municipios>
+  <municipio>
+    <codigo>051</codigo>
+    <nombre>Tayacaja</nombre>
+  </municipio>
+  <municipio>
+    <codigo>052</codigo>
+    <nombre>Churcampa</nombre>
+  </municipio>
+  <municipio>
+    <codigo>053</codigo>
+    <nombre>Acobamba</nombre>
+  </municipio>
+  <municipio>
+    <codigo>054</codigo>
+    <nombre>Huancavelica</nombre>
+  </municipio>
+  <municipio>
+    <codigo>055</codigo>
+    <nombre>Angaraes</nombre>
+  </municipio>
+  <municipio>
+    <codigo>056</codigo>
+    <nombre>Castrovirreyna</nombre>
+  </municipio>
+  <municipio>
+    <codigo>057</codigo>
+    <nombre>Huaytara</nombre>
+  </municipio>  
+</municipios>

@@ -1,0 +1,30 @@
+<municipios>
+  <municipio>
+    <codigo>087</codigo>
+    <nombre>Barranca</nombre>
+  </municipio>
+  <municipio>
+    <codigo>088</codigo>
+    <nombre>Cajatambo</nombre>
+  </municipio>
+  <municipio>
+    <codigo>089</codigo>
+    <nombre>Canta</nombre>
+  </municipio>
+  <municipio>
+    <codigo>090</codigo>
+    <nombre>Cañete</nombre>
+  </municipio>
+  <municipio>
+    <codigo>091</codigo>
+    <nombre>Huaral</nombre>
+  </municipio>
+  <municipio>
+    <codigo>092</codigo>
+    <nombre>Lima</nombre>
+  </municipio>
+  <municipio>
+    <codigo>093</codigo>
+    <nombre>Huara</nombre>
+  </municipio>
+</municipios>

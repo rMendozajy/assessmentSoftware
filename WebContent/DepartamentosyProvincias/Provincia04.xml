@@ -1,0 +1,34 @@
+<municipios>
+  <municipio>
+    <codigo>022</codigo>
+    <nombre>Arequipa</nombre>
+  </municipio>
+  <municipio>
+    <codigo>023</codigo>
+    <nombre>Camana</nombre>
+  </municipio>
+  <municipio>
+    <codigo>024</codigo>
+    <nombre>Caraveli</nombre>
+  </municipio>
+  <municipio>
+    <codigo>025</codigo>
+    <nombre>Castilla</nombre>
+  </municipio>
+  <municipio>
+    <codigo>026</codigo>
+    <nombre>Caylloma</nombre>
+  </municipio>
+  <municipio>
+    <codigo>027</codigo>
+    <nombre>Condesuyos</nombre>
+  </municipio>
+  <municipio>
+    <codigo>028</codigo>
+    <nombre>Islay</nombre>
+  </municipio>  
+  <municipio>
+    <codigo>029</codigo>
+    <nombre>La unión</nombre>
+  </municipio> 
+</municipios>

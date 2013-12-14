@@ -1,0 +1,30 @@
+<municipios>
+  <municipio>
+    <codigo>044</codigo>
+    <nombre>La convención</nombre>
+  </municipio>
+  <municipio>
+    <codigo>045</codigo>
+    <nombre>Calca</nombre>
+  </municipio>
+  <municipio>
+    <codigo>046</codigo>
+    <nombre>Urubamba</nombre>
+  </municipio>
+  <municipio>
+    <codigo>047</codigo>
+    <nombre>Anta</nombre>
+  </municipio>
+  <municipio>
+    <codigo>048</codigo>
+    <nombre>Cusco</nombre>
+  </municipio>
+  <municipio>
+    <codigo>049</codigo>
+    <nombre>Paucartambo</nombre>
+  </municipio>
+  <municipio>
+    <codigo>50</codigo>
+    <nombre>Quispicanchis</nombre>
+  </municipio>    
+</municipios>

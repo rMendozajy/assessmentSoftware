@@ -1,0 +1,30 @@
+<municipios>
+  <municipio>
+    <codigo>001</codigo>
+    <nombre>Bagua</nombre>
+  </municipio>
+  <municipio>
+    <codigo>002</codigo>
+    <nombre>Bongora</nombre>
+  </municipio>
+  <municipio>
+    <codigo>003</codigo>
+    <nombre>Chachapoyas</nombre>
+  </municipio>
+  <municipio>
+    <codigo>004</codigo>
+    <nombre>Condorcanqui</nombre>
+  </municipio>
+  <municipio>
+    <codigo>005</codigo>
+    <nombre>Luya</nombre>
+  </municipio>
+  <municipio>
+    <codigo>006</codigo>
+    <nombre>Rodriguez de Mendoza</nombre>
+  </municipio>
+  <municipio>
+    <codigo>007</codigo>
+    <nombre>Utcucamba</nombre>
+  </municipio>
+</municipios>

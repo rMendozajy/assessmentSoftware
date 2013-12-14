@@ -1,0 +1,30 @@
+<municipios>
+  <municipio>
+    <codigo>070</codigo>
+    <nombre>Junin</nombre>
+  </municipio>
+  <municipio>
+    <codigo>071</codigo>
+    <nombre>Yauli</nombre>
+  </municipio>
+  <municipio>
+    <codigo>072</codigo>
+    <nombre>Tarma</nombre>
+  </municipio>
+  <municipio>
+    <codigo>073</codigo>
+    <nombre>Chamchamayo</nombre>
+  </municipio>
+  <municipio>
+    <codigo>074</codigo>
+    <nombre>Jauja</nombre>
+  </municipio>
+  <municipio>
+    <codigo>075</codigo>
+    <nombre>Concepción</nombre>
+  </municipio>
+  <municipio>
+    <codigo>076</codigo>
+    <nombre>Huancayo</nombre>
+  </municipio>
+</municipios>

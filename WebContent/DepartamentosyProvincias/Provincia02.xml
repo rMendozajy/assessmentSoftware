@@ -1,0 +1,30 @@
+<municipios>
+  <municipio>
+    <codigo>008</codigo>
+    <nombre>Pallasca</nombre>
+  </municipio>
+  <municipio>
+    <codigo>009</codigo>
+    <nombre>Corongo</nombre>
+  </municipio>
+  <municipio>
+    <codigo>010</codigo>
+    <nombre>Sihuas</nombre>
+  </municipio>
+  <municipio>
+    <codigo>011</codigo>
+    <nombre>Santa</nombre>
+  </municipio>
+  <municipio>
+    <codigo>012</codigo>
+    <nombre>Huaylas</nombre>
+  </municipio>
+  <municipio>
+    <codigo>013</codigo>
+    <nombre>Pomabamba</nombre>
+  </municipio>
+  <municipio>
+    <codigo>014</codigo>
+    <nombre>Casma</nombre>
+  </municipio>
+</municipios>

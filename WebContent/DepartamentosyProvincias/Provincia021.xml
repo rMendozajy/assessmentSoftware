@@ -1,0 +1,30 @@
+<municipios>
+  <municipio>
+    <codigo>135</codigo>
+    <nombre>Moyobamba</nombre>
+  </municipio>
+  <municipio>
+    <codigo>136</codigo>
+    <nombre>Rioja</nombre>
+  </municipio>
+  <municipio>
+    <codigo>137</codigo>
+    <nombre>Lamas</nombre>
+  </municipio>
+  <municipio>
+    <codigo>138</codigo>
+    <nombre>San Martín</nombre>
+  </municipio>
+  <municipio>
+    <codigo>139</codigo>
+    <nombre>Mariscal Cáceres</nombre>
+  </municipio>
+  <municipio>
+    <codigo>140</codigo>
+    <nombre>El Dorado</nombre>
+  </municipio>
+  <municipio>
+    <codigo>141</codigo>
+    <nombre>Picota</nombre>
+  </municipio>  
+</municipios>

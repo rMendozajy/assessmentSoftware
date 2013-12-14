@@ -1,0 +1,30 @@
+<municipios>
+  <municipio>
+    <codigo>128</codigo>
+    <nombre>San Román</nombre>
+  </municipio>
+  <municipio>
+    <codigo>129</codigo>
+    <nombre>Puno</nombre>
+  </municipio>
+  <municipio>
+    <codigo>130</codigo>
+    <nombre>Azángaro</nombre>
+  </municipio>
+  <municipio>
+    <codigo>131</codigo>
+    <nombre>Chucuito</nombre>
+  </municipio>
+  <municipio>
+    <codigo>132</codigo>
+    <nombre>El Collao</nombre>
+  </municipio>
+  <municipio>
+    <codigo>133</codigo>
+    <nombre>Melgar</nombre>
+  </municipio>
+  <municipio>
+    <codigo>134</codigo>
+    <nombre>Carabaya</nombre>
+  </municipio>  
+</municipios>

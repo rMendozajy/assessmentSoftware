@@ -1,0 +1,30 @@
+<municipios>
+  <municipio>
+    <codigo>094</codigo>
+    <nombre>Maynas</nombre>
+  </municipio>
+  <municipio>
+    <codigo>095</codigo>
+    <nombre>Alto Amazonas</nombre>
+  </municipio>
+  <municipio>
+    <codigo>096</codigo>
+    <nombre>Datem del Marañon</nombre>
+  </municipio>
+  <municipio>
+    <codigo>097</codigo>
+    <nombre>Loreto</nombre>
+  </municipio>
+  <municipio>
+    <codigo>098</codigo>
+    <nombre>Mariscal Ramón Castilla</nombre>
+  </municipio>
+  <municipio>
+    <codigo>099</codigo>
+    <nombre>Requena</nombre>
+  </municipio>
+  <municipio>
+    <codigo>100</codigo>
+    <nombre>Ucayali</nombre>
+  </municipio>
+</municipios>

@@ -1,0 +1,34 @@
+<municipios>
+  <municipio>
+    <codigo>120</codigo>
+    <nombre>Ayabaca</nombre>
+  </municipio>
+  <municipio>
+    <codigo>121</codigo>
+    <nombre>Huancabamba</nombre>
+  </municipio>
+  <municipio>
+    <codigo>122</codigo>
+    <nombre>Morropón</nombre>
+  </municipio>
+  <municipio>
+    <codigo>123</codigo>
+    <nombre>Paita</nombre>
+  </municipio>
+  <municipio>
+    <codigo>124</codigo>
+    <nombre>Piura</nombre>
+  </municipio>
+  <municipio>
+    <codigo>125</codigo>
+    <nombre>Sechura</nombre>
+  </municipio>
+  <municipio>
+    <codigo>126</codigo>
+    <nombre>Sullana</nombre>
+  </municipio>
+  <municipio>
+    <codigo>127</codigo>
+    <nombre>Talara</nombre>
+  </municipio>
+</municipios>

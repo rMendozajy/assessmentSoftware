@@ -1,0 +1,22 @@
+<municipios>
+  <municipio>
+    <codigo>065</codigo>
+    <nombre>Chinca</nombre>
+  </municipio>
+  <municipio>
+    <codigo>066</codigo>
+    <nombre>Ica</nombre>
+  </municipio>
+  <municipio>
+    <codigo>067</codigo>
+    <nombre>Nazca</nombre>
+  </municipio>
+  <municipio>
+    <codigo>068</codigo>
+    <nombre>Palpa</nombre>
+  </municipio>
+  <municipio>
+    <codigo>069</codigo>
+    <nombre>Pisco</nombre>
+  </municipio>
+</municipios>

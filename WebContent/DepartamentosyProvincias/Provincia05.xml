@@ -1,0 +1,30 @@
+<municipios>
+  <municipio>
+    <codigo>030</codigo>
+    <nombre>Huanta</nombre>
+  </municipio>
+  <municipio>
+    <codigo>031</codigo>
+    <nombre>La Mar</nombre>
+  </municipio>
+  <municipio>
+    <codigo>032</codigo>
+    <nombre>Huamanga</nombre>
+  </municipio>
+  <municipio>
+    <codigo>033</codigo>
+    <nombre>Cangallo</nombre>
+  </municipio>
+  <municipio>
+    <codigo>034</codigo>
+    <nombre>Vilcas Huaman</nombre>
+  </municipio>
+  <municipio>
+    <codigo>035</codigo>
+    <nombre>Victor Fajardo</nombre>
+  </municipio>
+  <municipio>
+    <codigo>036</codigo>
+    <nombre>Huanca Sancos</nombre>
+  </municipio> 
+</municipios>

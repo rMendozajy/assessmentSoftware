@@ -1,0 +1,30 @@
+<municipios>
+  <municipio>
+    <codigo>015</codigo>
+    <nombre>Abancay</nombre>
+  </municipio>
+  <municipio>
+    <codigo>016</codigo>
+    <nombre>Andahuaylas</nombre>
+  </municipio>
+  <municipio>
+    <codigo>017</codigo>
+    <nombre>Antabamba</nombre>
+  </municipio>
+  <municipio>
+    <codigo>018</codigo>
+    <nombre>Aymaraes</nombre>
+  </municipio>
+  <municipio>
+    <codigo>019</codigo>
+    <nombre>Chincheros</nombre>
+  </municipio>
+  <municipio>
+    <codigo>020</codigo>
+    <nombre>Cotobambas</nombre>
+  </municipio>
+  <municipio>
+    <codigo>021</codigo>
+    <nombre>Grau</nombre>
+  </municipio>  
+</municipios>

@@ -1,0 +1,30 @@
+<municipios>
+  <municipio>
+    <codigo>077</codigo>
+    <nombre>Chepen</nombre>
+  </municipio>
+  <municipio>
+    <codigo>078</codigo>
+    <nombre>Pacasmayo</nombre>
+  </municipio>
+  <municipio>
+    <codigo>079</codigo>
+    <nombre>Ascope</nombre>
+  </municipio>
+  <municipio>
+    <codigo>080</codigo>
+    <nombre>Gran Chimu</nombre>
+  </municipio>
+  <municipio>
+    <codigo>081</codigo>
+    <nombre>Otuzco</nombre>
+  </municipio>
+  <municipio>
+    <codigo>082</codigo>
+    <nombre>Trujillo</nombre>
+  </municipio>
+  <municipio>
+    <codigo>083</codigo>
+    <nombre>Julcan</nombre>
+  </municipio>
+</municipios>
