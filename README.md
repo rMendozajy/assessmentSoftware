@@ -39,6 +39,88 @@ Then, also show you the general use case diagram and database physical model:
 *) https://dl.dropboxusercontent.com/u/69163795/PCSE-DF01-DIGETE-2010/Modelo%20F%C3%ADsico/databasephysicalmodel.png
 
 
+Data dictionary
+=============================
+
+Aspecto
+
+IdAspecto.- Representa el código del aspecto
+NombreAspecto.- Representa el nombre del aspecto
+
+Item
+
+IdItem.- Representa el código del ítem
+NombreItem.- Representa el nombre del ítem
+Aspecto_idAspecto.- Representa el código del aspecto a que pertenece el ítem
+
+Puntaje
+
+idPuntaje.- Representa el código del puntaje
+TipoPuntaje.- Representa el tipo de puntaje
+Puntaje.- Representa el valor del puntaje de acuerdo al tipo de puntaje
+Item_idItem.- Representa el código del ítem al que pertenece el puntaje
+
+Pregunta
+
+idPregunta.- Representa el código de la pregunta
+NombrePre.- Representa el nombre de la pregunta, es decir, la descripción del idPuntaje
+Item_idItem.- Representa el código del ítem al que pertenece la pregunta
+
+Pregunta_has_Evaluacion
+
+Esta tabla es resultado de la relación de muchos a muchos de la tabla 'Pregunta' con 'Evaluacion'
+Pregunta_idPregunta.-  Representa el código de la pregunta 
+ Evaluacion_idEvaluacion.- Representa el código de la Evaluacion
+Puntaje_idPuntaje.- Representa el código del puntaje
+
+Evaluacion
+
+idEvaluacion.- Representa el código de la evaluación
+NotaDeEvaluacion.- Representa el valor de la nota de la evaluación que se irá actualizando con un trigger.
+FechaRegEvaluacion.- Representa la fecha en la cual se registro la evaluación
+
+Departamento
+
+idDepartamento.- Representa el código del departamento
+NombreDepartamento.- Representa el nombre del departamento
+
+Provincia 
+
+idProvincia.- Representa el código de la provincia
+NombreProvincia.- Representa el nombre de la provincia
+Departamento_idDepartamento.- Representa el código del departamento al que pertenece dicha provincia.
+
+Usuario
+
+C_Usuario.- Representa el código del usuario
+N_UsuarioPassword.- Representa el password del usuario
+N_TipoUsuario.- Representa el tipo de usuario
+N_NombreUsuario.- Representa el nombre del usuario
+N_ApePaternoUsuario.- Representa el apellido paterno del usuario
+N_ApeMaternoUsuario.- Representa el apellido materno del usuario
+Provincia_idProvincia.- Representa el código de la provincia al que el usuario pertenece
+FechaRegUsuario.- Representa la fecha del registro del usuario
+
+Software
+
+idSoftware.- Representa el código del software
+Evaluacion_idEvaluacion.- Representa el código de la evaluación del software
+Especialista_C_Usuario.- Representa el código del especialista designado
+Nombre_Software.- Representa el nombre del  software
+DescripcionSoftware.- Representa la descripción del software
+Tema.- Representa el tipo de programa
+TipoSoftware.- Representa el tipo de software, es decir, si es tutorial, aplicación, etc.
+Nivel.- Representa el grado de instrucción, es decir, si para primaria o secundaria.
+Grado.- Representa el grado del nivel del software que se va a registrar.
+EstadoSoftware.- Representa el estado en el que se encuentra el software, es decir, si se encuentra en estado recibido, pendiente, revisado si ya se le evaluó, entre otros.
+FechaRegSoftware.- Representa la fecha en la cual fue registrado el software
+
+Software_has_Usuario
+
+Software_idSoftware.- Representa el código del software
+Docente_C_Usuario.- Representa el código del docente al que pertenece el software
+
+
 Contributing
 =============================
 Pull requests are welcome.
