@@ -7,7 +7,7 @@ This project seeks to automate the certification process of educational and cult
 Technology Involved
 =============================
 
-1) Java EE
+1) J2EE
 
 2) DAO Pattern
 
